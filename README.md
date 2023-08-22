@@ -3,9 +3,9 @@ Automatically generate post descriptions and tags using Openai API (by getting t
 
 # Some of the posts that are auto-generated & posted by this script on a Facebook page:
 
-![screenshot-1](screenshot/screenshot-1)
+![screenshot-1](screenshot/Screenshot-1.png)
 
-![screenshot-2](screenshot/screenshot-2.png)
+![screenshot-2](screenshot/Screenshot-2.png)
 
 # Working of this script
 - Get a random feed URL from one of the URLs provided in the .env file
