@@ -44,6 +44,4 @@ rss_feeds="https://machinethink.net/blog/index.xml, https://www.marketingaiinsti
 openai_api_key=""
 ```
 
-- Finally run cron.php as a cron job to auto-run the script after the specific intervals (hourly, daily, etc) 
-
-# Do let me know in case you need any help. My email is chaudryhabib2@gmail.com
+- Finally run cron.php as a cron job to auto-run the script after the specific intervals (hourly, daily, etc)
